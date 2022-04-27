@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SDG-Goals-Task-Starter-Kit/static/css/main.6828d6f5.chunk.css",
+    "main.js": "/SDG-Goals-Task-Starter-Kit/static/js/main.82d50f28.chunk.js",
+    "main.js.map": "/SDG-Goals-Task-Starter-Kit/static/js/main.82d50f28.chunk.js.map",
+    "runtime-main.js": "/SDG-Goals-Task-Starter-Kit/static/js/runtime-main.5a7fbd7b.js",
+    "runtime-main.js.map": "/SDG-Goals-Task-Starter-Kit/static/js/runtime-main.5a7fbd7b.js.map",
+    "static/js/2.345d7355.chunk.js": "/SDG-Goals-Task-Starter-Kit/static/js/2.345d7355.chunk.js",
+    "static/js/2.345d7355.chunk.js.map": "/SDG-Goals-Task-Starter-Kit/static/js/2.345d7355.chunk.js.map",
+    "static/js/3.e9b79974.chunk.js": "/SDG-Goals-Task-Starter-Kit/static/js/3.e9b79974.chunk.js",
+    "static/js/3.e9b79974.chunk.js.map": "/SDG-Goals-Task-Starter-Kit/static/js/3.e9b79974.chunk.js.map",
+    "index.html": "/SDG-Goals-Task-Starter-Kit/index.html",
+    "static/css/main.6828d6f5.chunk.css.map": "/SDG-Goals-Task-Starter-Kit/static/css/main.6828d6f5.chunk.css.map",
+    "static/js/2.345d7355.chunk.js.LICENSE.txt": "/SDG-Goals-Task-Starter-Kit/static/js/2.345d7355.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a7fbd7b.js",
+    "static/js/2.345d7355.chunk.js",
+    "static/css/main.6828d6f5.chunk.css",
+    "static/js/main.82d50f28.chunk.js"
+  ]
+}
